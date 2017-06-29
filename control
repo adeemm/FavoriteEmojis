@@ -1,0 +1,9 @@
+Package: com.adeemm.favoriteemojis
+Name: FavoriteEmojis
+Depends: mobilesubstrate, firmware (>= 10.2)
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: Replaces "Frequently Used" emojis with favorites
+Maintainer: Adeem Mawani
+Author: Adeem Mawani
+Section: Tweaks
